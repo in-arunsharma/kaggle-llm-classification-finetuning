@@ -1,7 +1,7 @@
 # Predicció de Preferències en Respostes de Models de Llenguatge
 
 ## Autors
-**Iker Bolacel** | **Arun Sharma**  
+**Iker Bolancel** | **Arun Sharma**  
 Enginyeria Informàtica  
 Universitat Autònoma de Barcelona  
 Assignatura: Aprenentatge Computacional  
