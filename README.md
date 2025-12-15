@@ -118,6 +118,7 @@ Aquest treball demostra que la construcció de sistemes efectius de Machine Lear
 ```
 .
 ├── Kaggle.ipynb    # Notebook principal amb tot el codi
+├── LICENCE         # MIT
 └── README.md       # Aquest document
 ```
 
